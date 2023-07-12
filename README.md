@@ -1,6 +1,6 @@
 
 ## Hello!! This is Anto 
-<img src="https://www.facebook.com/photo/fbid=10226170203816028&set=a.1533018959877" width= "100" height= "100" >
+![image](https://scontent.fbeg4-1.fna.fbcdn.net/v/t39.30808-6/296601420_10226170203776027_2969480852054992865_n.jpg?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kqFPUUxbrNwAX9wCHG5&_nc_ht=scontent.fbeg4-1.fna&oh=00_AfD6JcuZ36tVpGSvf1lUDsLYWsHyQBy6AzWXCYhHC4wCpw&oe=64B30329") 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AntoClus!;I'm+a+learning+developer...;Let's+code+together...;Awesome+soft+skills)](https://git.io/typing-svg)
@@ -40,8 +40,8 @@
 * ![](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)
 
 ### Contact:
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <>
-![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antolustraducciones@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5493435436627)
 ![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 
